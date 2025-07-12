@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 reg_venv/
-reg_venv/*
+
+outputs/
